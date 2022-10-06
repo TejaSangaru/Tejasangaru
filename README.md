@@ -1,4 +1,4 @@
-Hello, folks!  I’m Teja
+Hello, folks! 👋 I’m Teja
  
 
 ✨ About Me in 30 secs✨
