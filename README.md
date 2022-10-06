@@ -1,9 +1,7 @@
-Hello, folks!![wave](https://user-images.githubusercontent.com/106527893/194229667-9f33f06a-e7af-4d4a-a978-86df8a3b6a1e.gif)
+Hello, folks!!https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif  I’m Teja
 
- I’m Teja
  
-
-✨ About Me in 30 secs✨
+ ✨ About Me in 30 secs✨
 
 👀 I’m addicted to Data Analysis and I love learning new skills
 
