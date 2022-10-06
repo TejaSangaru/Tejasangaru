@@ -1,4 +1,5 @@
-Hello, folks! ![WaveHiGIF](https://user-images.githubusercontent.com/106527893/194229530-d4f06bff-7c54-4404-bcb1-90c4a57f46c0.gif)
+Hello, folks!![wave](https://user-images.githubusercontent.com/106527893/194229667-9f33f06a-e7af-4d4a-a978-86df8a3b6a1e.gif)
+
  I’m Teja
  
 
