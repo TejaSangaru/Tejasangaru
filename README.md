@@ -1,4 +1,4 @@
-Hello, folks! https://github.com/TejaSangaru/tej24/blob/main/wave.gif I’m Teja
+Hello, folks! <p>img align="right" src="https://github.com/TejaSangaru/tej24/blob/main/wave.gif" width="241" height="234" /></p> I’m Teja
  
 
 ✨ About Me in 30 secs✨
