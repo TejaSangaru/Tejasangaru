@@ -20,9 +20,13 @@ Hello, folks!  I’m Teja
 💡Skills💡:
 
 Microsoft SQL Server
+
 BI Tools
+
 Microsoft Excel
+
 Google Sheets
+
 Python
  
 
