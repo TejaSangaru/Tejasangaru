@@ -1,4 +1,5 @@
-Hello, folks!  I’m Teja
+Hello, folks! ![WaveHiGIF](https://user-images.githubusercontent.com/106527893/194229530-d4f06bff-7c54-4404-bcb1-90c4a57f46c0.gif)
+ I’m Teja
  
 
 ✨ About Me in 30 secs✨
