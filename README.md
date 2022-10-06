@@ -1,4 +1,4 @@
-Hello, folks! https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif I’m Teja
+Hello, folks! https://github.com/TejaSangaru/tej24/blob/main/wave.gif I’m Teja
  
 
 ✨ About Me in 30 secs✨
