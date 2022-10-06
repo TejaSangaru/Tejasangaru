@@ -1,17 +1,19 @@
-Hello, folks! https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif  I’m Teja
-
+Hello, folks! 👋 I’m Teja
  
- ✨ About Me in 30 secs✨
+
+✨ About Me in 30 secs✨
 
 👀 I’m addicted to Data Analysis and I love learning new skills
 
-💉 I am a management graduate  and started transitioning into Data Analytics in october 2021
+💉 I have a Healthcare background and started transitioning into Data Analytics in December 2021
 
-📊 I obtained the Certified Data Analyt Certificate from Analytixlabs in May 2022
+📊 I obtained the Google Data Analytics Certificate in June 2022
 
 🌱 I self-taught SQL and Tableau
 
 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
+
+📫 How to find me: LinkedIn
 
 
 
