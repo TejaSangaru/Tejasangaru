@@ -1,38 +1,29 @@
-Hello, folks! 👋 I’m Teja
- 
+Hello, everyone! 👋 I'm Teja Sangaru, and I'd like to share a bit about myself:
 
-✨ About Me in 30 secs✨
+👀 I'm deeply passionate about Data Analysis and thrive on learning new skills.
 
-👀 I’m addicted to Data Analysis and I love learning new skills
+💉 My background is in management, and my transition into Data Analytics began in December 2021.
 
-💉 I have a management background and started transitioning into Data Analytics in December 2021
+📊 I proudly achieved the Certified Data Analyst certification from Analytixlabs in May 2022, followed by the Google Data Analytics Certificate in June 2022.
 
-📊 I obtained the Certified Data analyst from Analytixlabs in May 2022 & Google Data Analytics Certificate in June 2022
+🌱 I'm entirely self-taught in SQL and Tableau.
 
-🌱 I self-taught SQL and Tableau
+📉 My expertise spans Data Cleaning and Wrangling, Data Visualization, Data Analysis, and Dashboard Design and Development.
 
-📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
-
-📫 How to find me: [LinkedIn](https://www.linkedin.com/in/tejas21/)
-
- 
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/tejasangaru/).
 
 💡Skills💡:
 
-Microsoft SQL Server
+- Proficient in Microsoft SQL Server
+- Experienced with BI Tools
+- Skilled in Microsoft Excel
+- Proficient in Google Sheets
+- Competent in Python
 
-BI Tools
+📚Courses and Certifications📚:
 
-Microsoft Excel
+- Certified Data Analyst from Analytixlabs in May 2022
+- Google Data Analytics Certification: Completed in June 2022
 
-Google Sheets
-
-Python
- 
-
-📚Courses and Certifications📚
-
-Certified Data analyst from Analytixlabs in May 2022
-
-Google Data Analytics Certification: completed June 2022
+Feel free to reach out and connect anytime!
  
